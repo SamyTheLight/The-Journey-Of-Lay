@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/MyContent/Scenes/Videos/VideoHospital.mov
+Content/MyContent/Scenes/Videos/VideoHospital.uasset
